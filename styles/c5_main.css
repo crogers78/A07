@@ -52,7 +52,7 @@ main {
 main {
 	padding: 0 30px;
 }
-/* the h1 styles for exercise 5-1 */
+
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
@@ -60,7 +60,6 @@ main h1 {
     border-bottom: 3px solid #931420;
 }
 
-/* the h1 styles for exercise 5-2
 main h1 {
 	font-size: 150%;
 	border: 3px double #800000;
@@ -69,7 +68,7 @@ main h1 {
 	box-shadow: 5px 5px;
 	padding: .5em 0 .5em 2em;
 	background-color: white;
-} */
+} 
 main h2 {
 	color: #800000;
 	font-size: 130%;
